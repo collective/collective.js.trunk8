@@ -11,7 +11,7 @@ long_description = (
 
 setup(name='collective.js.trunk8',
       version=version,
-      description="",
+      description="This package integrates jQuery trunk8 plugin into Plone",
       long_description=long_description,
       # Get more strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -26,7 +26,7 @@ setup(name='collective.js.trunk8',
       keywords='',
       author='',
       author_email='',
-      url='https://github.com/collective/',
+      url='https://github.com/collective/collective.js.trunk8',
       license='MIT',
       packages=find_packages(),
       namespace_packages=['collective', 'collective.js'],
